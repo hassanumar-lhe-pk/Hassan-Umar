@@ -21,22 +21,6 @@ const App = () => {
         </div>
       }
     >
-      <script
-        async
-        src="https://www.googletagmanager.com/gtag/js?id=G-4CLXJGFMK6"
-      ></script>
-
-      <script
-        dangerouslySetInnerHTML={{
-          __html: `
-                    window.dataLayer = window.dataLayer || [];
-                    function gtag(){dataLayer.push(arguments);}
-                    gtag('js', new Date());
-                    gtag('config', 'G-4CLXJGFMK6');
-                `,
-        }}
-      />
-
       {loading ? (
         <div className="h-screen w-full flex items-center justify-center">
           <BarLoader color="#f6c400" height={4} />

@@ -91,7 +91,7 @@ const Hero = () => {
                 <img
                   className="w-[135px] md:w-[90px] circle-text"
                   src="https://ik.imagekit.io/imgkitt/tr:w-400/Full_Stack_Developer2.png?updatedAt=1683134009107"
-                  alt=""
+                  alt="Hassan Umar Web and mobile app developer"
                 />
                 <FaPlay className=" text-black absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]" />
               </div>
