@@ -35,7 +35,7 @@ const Hero = () => {
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
             <a
-              href="https://www.linkedin.com/in/hassan-umar-rn-developer/"
+              href="https://www.linkedin.com/in/hassan-umar-lhe-pk/"
               target="_blank"
               className=" bg-black text-[1rem] text-white px-10 py-2 sm:px-8 rounded-lg font-bold  hover:text-yellow-500"
             >
@@ -65,7 +65,7 @@ const Hero = () => {
               </li>
               <li>
                 <a
-                  href="https://www.linkedin.com/in/hassan-umar-rn-developer/"
+                  href="https://www.linkedin.com/in/hassan-umar-lhe-pk/"
                   target="_blank"
                 >
                   <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />

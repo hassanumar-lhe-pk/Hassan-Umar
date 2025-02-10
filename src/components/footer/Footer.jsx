@@ -23,7 +23,7 @@ const Footer = () => {
           <a
             data-aos="fade-up"
             data-aos-duration="1400"
-            href="https://www.linkedin.com/in/hassan-umar-rn-developer/"
+            href="https://www.linkedin.com/in/hassan-umar-lhe-pk/"
             target="_blank"
             className="box font-medium text-white  flex items-center justify-center flex-col"
           >
